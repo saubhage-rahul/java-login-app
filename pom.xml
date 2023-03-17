@@ -67,13 +67,12 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0ets8ph6kgsf-artifactory-primary-0-releases</name>
-        <url>https://edwikifacts.jfrog.io/artifactory/dpt-libs-release-local</url>
+        <name>a0nymgefaiwwu-artifactory-primary-0-releases</name>
+        <url>https://edshopdpt8.jfrog.io/artifactory/libs-release-local</url>
     </repository>
-</distributionManagement>
- 
+</distributionManagement> 
 
 </project>
